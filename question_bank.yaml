@@ -1,0 +1,23 @@
+Python:
+  - q: "What is a Python decorator and how is it used?"
+  - q: "Explain the difference between a list and a tuple in Python."
+  - q: "What are Python generators and how do you create one?"
+  - q: "How does error handling work in Python? Give an example."
+
+JavaScript:
+  - q: "What is the difference between var, let, and const?"
+  - q: "Explain how prototypal inheritance works in JavaScript."
+  - q: "What are arrow functions and how do they differ from regular functions?"
+  - q: "Describe how promises work and provide an example."
+
+SQL:
+  - q: "What is a JOIN and what types of JOINs exist in SQL?"
+  - q: "How do you prevent SQL injection attacks?"
+  - q: "What is normalization? Explain its different normal forms."
+  - q: "Write a query to find duplicate rows in a table."
+
+React:
+  - q: "What are React hooks? Name a few commonly used hooks."
+  - q: "Explain the concept of virtual DOM in React."
+  - q: "How does state management work in React?"
+  - q: "Describe the difference between controlled and uncontrolled components."
